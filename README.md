@@ -9,10 +9,21 @@ This dataset contains 10,209 records of messages sent to public channels and gro
 
 Cite:
 ```bib
-@Misc{Sep-TD-Tel,
+@Misc{Sep-TD-Tel_Mendeley,
     title={Sep\_TD\_Tel01},
     author = {Mehrdad Ranjbar-Khadivi and Mohammad-Reza Feizi-Derakhshi and Aynaz Forouzandeh and Pejman Gholami and Ali-Reza Feizi-Derakhshi and Elnaz Zafarani-Moattar},
     year = {2022},
     doi = {10.17632/372rnwf9pc},
     url = {https://github.com/cominsys/Sep_TD_Tel01}
+}
+@article{Sep-TD-Tel,
+	author = {Pejman Gholami-Dastgerdi and Mohammad-Reza Feizi‐Derakhshi and Aynaz Forouzandeh},
+	journal = {Concurrency and Computation: Practice and Experience},
+	month = {10},
+	number = {27},
+	title = {Named entities detection by beam search algorithm},
+	volume = {34},
+	year = {2022},
+	doi = {10.1002/cpe.7325},
+	url = {http://dx.doi.org/10.1002/cpe.7325},
 }
